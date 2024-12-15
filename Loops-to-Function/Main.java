@@ -155,7 +155,7 @@ public class Loops_to_function {
 		// }
 
 
-		//~~~~~~~~~~~~~~~~~ print all number of the digit in reverse UnsupportedOperationException
+		//~~~~~~~~~~~~~~~~~ print all number of the digit in reverse UnsupportedOperationException ~~~~~~~~~~~~~~~~~~~~~
 		/*
 		int n = 26874;
 		int p = n;
