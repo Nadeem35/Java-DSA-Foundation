@@ -114,7 +114,7 @@ public class Main{
         
         // System.out.println(d);
         
-        // Arthmatic operators - +, -, *, /, % (modulo)
+        // Arthmatic operators :- +, -, *, /, % (modulo)
         
         // int a = 17;
         // int b = 4;
@@ -389,7 +389,7 @@ public class Main{
             System.out.println(a);
             System.out.println(b);
             {
-                // int a = 65; // error: variable already declared inside the scope
+                // int a = 65; // error:- variable already declared inside the scope
                 int c = 65;  
                 System.out.println(a);
                 System.out.println(c);
@@ -397,7 +397,7 @@ public class Main{
             }
             // System.out.println(c);
         }
-            // System.out.println(a); // error: variable cannot access outside the scope
+            // System.out.println(a); // error:- variable cannot access outside the scope
          
          */
             
