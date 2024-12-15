@@ -214,7 +214,7 @@ public class Loops_to_function {
 
 		*/
 
-		//~~~~~~~~~~~~ Factor or any number
+		//~~~~~~~~~~~~ Factor or any number ~~~~~~~~~~~~~~~~~~~~~
 		/*
 		int n = 54;
 		for(int i = 1; i<=n; i++){
